@@ -15,7 +15,7 @@
             #hi{
                 position: absolute;
                 top: 10px;
-                right: 385px;
+                right: 300px;
                 font-size: 70px;
             }
             #intro{
@@ -23,7 +23,7 @@
                 top:120px;
                 right: 50px;
                 left: 395px;
-                font-size: 28px;
+                font-size: 26px;
                 text-align: justify;
             }
             #sample{

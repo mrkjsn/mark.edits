@@ -303,7 +303,7 @@
 
         <a id = "email" href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMnZdWdKnNNFXkTZsspxhCzjfGBwhkprTGMkNRqnbFFXHcqQBNcxjFNGCBFFFzQmGRwzvwQ"
             target = "_blank">
-            <img src = "images/gmail.png" height = "400px">
+            <img src = "gmail.png" height = "400px">
         </a>
 
         <a id = "tofb" href = "https://www.facebook.com/markjason.soy.9/"

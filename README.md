@@ -23,7 +23,7 @@
                 top:120px;
                 right: 50px;
                 left: 395px;
-                font-size: 15px;
+                font-size: 25px;
                 text-align: justify;
             }
             #sample{

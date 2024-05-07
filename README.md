@@ -298,7 +298,7 @@
 
         <a id = "ig" href = "https://www.instagram.com/marksoy.edits/"
             target = "_blank">
-            <img src = "images/instagram.png" height = "225px">
+            <img src = "instagram.png" height = "225px">
         </a>
 
         <a id = "email" href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMnZdWdKnNNFXkTZsspxhCzjfGBwhkprTGMkNRqnbFFXHcqQBNcxjFNGCBFFFzQmGRwzvwQ"
@@ -308,15 +308,15 @@
 
         <a id = "tofb" href = "https://www.facebook.com/markjason.soy.9/"
         target = "_blank">
-        <img src = "images/meta.png" height = "400px ">
+        <img src = "meta.png" height = "400px ">
         </a>
 
         <a id = "tiktok" href = "https://www.instagram.com/marksoy.edits/"
         target = "_blank">
-        <img src = "images/tiktok.png" height = "275px">
+        <img src = "tiktok.png" height = "275px">
         </a>
 
-        <img id = "profile" src = "images/profile.jpg"
+        <img id = "profile" src = "profile.jpg"
         height = 300 width = 300>
 
         <h1 id = "hi">Hello! I'm Mark Jason</h1>

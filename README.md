@@ -7,14 +7,14 @@
         <style>
             #profile {
                 position: absolute;
-                top: 0px;
+                top: 10px;
                 left: 50px;
                 border-radius: 50%;
                 box-shadow: 7px 10px 15px gray;
             }
             #hi{
                 position: absolute;
-                top: 50px;
+                top: 10px;
                 right: 385px;
                 font-size: 50px;
             }

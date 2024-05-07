@@ -16,14 +16,14 @@
                 position: absolute;
                 top: 10px;
                 right: 385px;
-                font-size: 50px;
+                font-size: 70px;
             }
             #intro{
                 position: absolute;
                 top:120px;
                 right: 50px;
                 left: 395px;
-                font-size: 25px;
+                font-size: 28px;
                 text-align: justify;
             }
             #sample{

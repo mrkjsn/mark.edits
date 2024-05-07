@@ -16,14 +16,14 @@
                 position: absolute;
                 top: 10px;
                 right: 385px;
-                font-size: 30px;
+                font-size: 50px;
             }
             #intro{
                 position: absolute;
                 top:120px;
                 right: 50px;
                 left: 395px;
-                font-size: 30px;
+                font-size: 15px;
                 text-align: justify;
             }
             #sample{
@@ -335,7 +335,7 @@
 
         <p id="sample">WORK SAMPLES:</p>
 
-        <video id= "vid1" src = "TIER 1/1.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>
+        <video id= "vid1" src = "1.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>
         <video id= "vid2" src = "TIER 1/2.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>
         <video id= "vid3" src = "TIER 1/3.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>
         <video id= "vid4" src = "TIER 1/4.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>

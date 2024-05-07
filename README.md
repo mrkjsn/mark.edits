@@ -15,7 +15,7 @@
             #hi{
                 position: absolute;
                 top: 10px;
-                right: 250px;
+                right: 200px;
                 font-size: 70px;
             }
             #intro{
@@ -336,51 +336,51 @@
         <p id="sample">WORK SAMPLES:</p>
 
         <video id= "vid1" src = "1.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>
-        <video id= "vid2" src = "TIER 1/2.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>
-        <video id= "vid3" src = "TIER 1/3.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>
-        <video id= "vid4" src = "TIER 1/4.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>
-        <video id= "vid5" src = "TIER 1/26.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid6" src = "TIER 1/6.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid7" src = "TIER 1/35.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid8" src = "TIER 1/42.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid9" src = "TIER 1/9.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid10" src = "TIER 1/10.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid11" src = "TIER 1/11.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid12" src = "TIER 1/12.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid13" src = "TIER 1/13.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid14" src = "TIER 1/14.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid15" src = "TIER 1/15.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid16" src = "TIER 1/16.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid17" src = "TIER 1/17.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid18" src = "TIER 1/18.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid19" src = "TIER 1/19.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid20" src = "TIER 1/20.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid21" src = "TIER 1/21.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid22" src = "TIER 1/22.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid23" src = "TIER 1/23.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid24" src = "TIER 1/24.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid25" src = "TIER 1/25.mp4" height = "450psx" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid26" src = "TIER 1/5.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
-        <video id= "vid27" src = "TIER 1/27.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid28" src = "TIER 1/28.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid29" src = "TIER 1/29.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid30" src = "TIER 1/30.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid31" src = "TIER 1/31.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid32" src = "TIER 1/32.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid33" src = "TIER 1/33.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid34" src = "TIER 1/34.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid35" src = "TIER 1/7.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid36" src = "TIER 1/36.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid37" src = "TIER 1/37.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid38" src = "TIER 1/38.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid39" src = "TIER 1/39.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid40" src = "TIER 1/40.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid41" src = "TIER 1/41.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid42" src = "TIER 1/8.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
-        <video id= "vid43" src = "TIER 1/43.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
-        <video id= "vid44" src = "TIER 1/44.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
-        <video id= "vid45" src = "TIER 1/45.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
-        <video id= "vid46" src = "TIER 1/46.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
+        <video id= "vid2" src = "2.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>
+        <video id= "vid3" src = "3.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>
+        <video id= "vid4" src = "4.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" muted autoplay loop> </video>
+        <video id= "vid5" src = "26.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid6" src = "6.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid7" src = "35.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid8" src = "42.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid9" src = "9.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid10" src = "10.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid11" src = "1.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid12" src = "12.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid13" src = "13.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid14" src = "14.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid15" src = "15.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid16" src = "16.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid17" src = "17.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid18" src = "18.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid19" src = "19.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid20" src = "20.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid21" src = "21.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid22" src = "22.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid23" src = "23.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid24" src = "24.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid25" src = "25.mp4" height = "450psx" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid26" src = "5.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
+        <video id= "vid27" src = "27.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid28" src = "28.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid29" src = "29.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid30" src = "30.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid31" src = "31.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid32" src = "32.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid33" src = "33.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid34" src = "34.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid35" src = "7.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid36" src = "36.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid37" src = "37.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid38" src = "38.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid39" src = "39.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid40" src = "40.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid41" src = "41.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid42" src = "8.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
+        <video id= "vid43" src = "43.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
+        <video id= "vid44" src = "44.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
+        <video id= "vid45" src = "45.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
+        <video id= "vid46" src = "46.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
         
     </body>
 </html>

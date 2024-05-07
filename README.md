@@ -16,7 +16,7 @@
                 position: absolute;
                 top: 10px;
                 right: 385px;
-                font-size: 50px;
+                font-size: 30px;
             }
             #intro{
                 position: absolute;

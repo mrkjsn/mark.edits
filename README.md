@@ -15,7 +15,7 @@
             #hi{
                 position: absolute;
                 top: 10px;
-                right: 200px;
+                right: 195px;
                 font-size: 70px;
             }
             #intro{
@@ -289,7 +289,7 @@
             }
             #contact{
                 position: absolute;
-                top: 430px;
+                top: 450px;
                 left: 325px;
             }
         </style>

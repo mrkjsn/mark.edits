@@ -15,7 +15,7 @@
             #hi{
                 position: absolute;
                 top: 10px;
-                right: 180px;
+                right: 190px;
                 font-size: 70px;
             }
             #intro{

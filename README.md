@@ -15,7 +15,7 @@
             #hi{
                 position: absolute;
                 top: 10px;
-                right: 200px;
+                right: 190px;
                 font-size: 70px;
             }
             #intro{
@@ -345,7 +345,7 @@
         <video id= "vid8" src = "42.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
         <video id= "vid9" src = "9.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
         <video id= "vid10" src = "10.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
-        <video id= "vid11" src = "1.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
+        <video id= "vid11" src = "11.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
         <video id= "vid12" src = "12.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
         <video id= "vid13" src = "13.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>
         <video id= "vid14" src = "14.mp4" height = "450px" width = "210px" controls controlslist = "nodownload" loop> </video>

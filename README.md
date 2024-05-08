@@ -264,7 +264,9 @@
                 left: 370%;
             }
             body{
-                margin: 0%;
+                margin: 0;
+                width: 100vw;
+                height: 100vh;
             }       
             #ig{
                 position: absolute;

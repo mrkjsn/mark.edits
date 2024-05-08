@@ -289,7 +289,7 @@
             }
             #contact{
                 position: absolute;
-                top: 450px;
+                top: 500px;
                 left: 325px;
             }
         </style>

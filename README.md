@@ -7,36 +7,36 @@
         <style>
             #profile {
                 position: absolute;
-                top: 10%;
-                left: 50%;
-                border-radius: 50%;
-                box-shadow: 7% 10% 15% gray;
+                top: 10px;
+                left: 50px;
+                border-radius: 50px;
+                box-shadow: 7px 10px 15px gray;
             }
             #hi{
                 position: absolute;
-                top: 10%;
-                right: 185%;
-                font-size: 70%;
+                top: 10px;
+                right: 185px;
+                font-size: 70px;
             }
             #intro{
                 position: absolute;
-                top:120%;
-                right: 50%;
-                left: 395%;
-                font-size: 27%;
+                top:120px;
+                right: 50px;
+                left: 395px;
+                font-size: 27px;
                 text-align: justify;
             }
             #sample{
                 position: absolute;
-                top: 500%;
-                right: 50%;
-                left: 50%;
-                font-size: 30%;
+                top: 500px;
+                right: 50px;
+                left: 50px;
+                font-size: 30px;
             }
             #vid1{
                 position: absolute;
-                top:550%;
-                left: 50%;
+                top:550px;
+                left: 50px;
             }
             #vid2{
                 position: absolute;

@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>
             marksoy.edits
         </title>
         <style>
             #profile {
                 position: absolute;
-                top: 0%;
+                top: 10%;
                 left: 50%;
                 border-radius: 50%;
                 box-shadow: 7% 10% 15% gray;
@@ -28,7 +29,7 @@
             }
             #sample{
                 position: absolute;
-                top: 1000%;
+                top: 500%;
                 right: 50%;
                 left: 50%;
                 font-size: 30%;

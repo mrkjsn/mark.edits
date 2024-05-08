@@ -7,7 +7,7 @@
         <style>
             #profile {
                 position: absolute;
-                top: 10px;
+                top: 20px;
                 left: 50px;
                 border-radius: 50%;
                 box-shadow: 7px 10px 15px gray;
@@ -15,7 +15,7 @@
             #hi{
                 position: absolute;
                 top: 10px;
-                right: 190px;
+                right: 200px;
                 font-size: 70px;
             }
             #intro{

@@ -7,7 +7,7 @@
         <style>
             #profile {
                 position: absolute;
-                top: 20px;
+                top: 10px;
                 left: 50px;
                 border-radius: 50%;
                 box-shadow: 7px 10px 15px gray;
@@ -28,7 +28,7 @@
             }
             #sample{
                 position: absolute;
-                top:650px;
+                top:750px;
                 right: 50px;
                 left: 50px;
                 font-size: 30px;

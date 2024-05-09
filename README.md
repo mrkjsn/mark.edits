@@ -5,7 +5,7 @@
         <style>
             #profile {
                 position: absolute;
-                top: 90px;
+                top: 10px;
                 left: 50px;
                 border-radius: 50%;
                 box-shadow: 7px 10px 15px gray;
@@ -300,25 +300,25 @@
     <body> 
         
         <div class = "box">
-        <a id = "ig" href = "https://www.instagram.com/marksoy.edits/"
+        <p><a id = "ig" href = "https://www.instagram.com/marksoy.edits/"
             target = "_blank">
             <img src = "instagram.png" height = "225px">
-        </a>
+        </a> </p>
 
-        <a id = "email" href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMnZdWdKnNNFXkTZsspxhCzjfGBwhkprTGMkNRqnbFFXHcqQBNcxjFNGCBFFFzQmGRwzvwQ"
+        <p><a id = "email" href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMnZdWdKnNNFXkTZsspxhCzjfGBwhkprTGMkNRqnbFFXHcqQBNcxjFNGCBFFFzQmGRwzvwQ"
             target = "_blank">
             <img src = "gmail.png" height = "400px">
-        </a>
+        </a> </p>
 
-        <a id = "tofb" href = "https://www.facebook.com/markjason.soy.9/"
+        <p><a id = "tofb" href = "https://www.facebook.com/markjason.soy.9/"
         target = "_blank">
         <img src = "meta.png" height = "400px ">
-        </a>
+        </a> </p>
 
-        <a id = "tiktok" href = "https://www.instagram.com/marksoy.edits/"
+        <p><a id = "tiktok" href = "https://www.instagram.com/marksoy.edits/"
         target = "_blank">
         <img src = "tiktok.png" height = "275px">
-        </a>
+        </a> </p>
 
         <img id = "profile" src = "profile.jpg"
         height = 300 width = 300>

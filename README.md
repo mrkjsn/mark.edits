@@ -5,7 +5,7 @@
         <style>
             #profile {
                 position: absolute;
-                top: 10px;
+                top: 90px;
                 left: 50px;
                 border-radius: 50%;
                 box-shadow: 7px 10px 15px gray;
@@ -13,7 +13,7 @@
             #hi{
                 position: absolute;
                 top: 10px;
-                right: 185px;
+                left: 395px;
                 font-size: 70px;
             }
             #intro{
@@ -293,7 +293,7 @@
             }
             .box{
                 height: auto;
-                width: 100%;
+                width: auto;
             }
         </style>
     </head>
@@ -326,8 +326,8 @@
         <h1 id = "hi">Hello! I'm Mark Jason</h1>
 
         <pre id = "intro">
-I'm a video editor based in the Philippines, dedicated to
-transforming raw footage into captivating visual experiences. I'm
+I'm a video editor based in the Philippines, dedicated
+to  transforming raw footage into captivating visual experiences. I'm
 committed to turning your vision into reality, so whether you're a 
 filmmaker, content creator, or business owner seeking professional 
 video editing, I'm here to collaborate and bring your ideas to life.

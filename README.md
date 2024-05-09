@@ -294,10 +294,15 @@
                 top: 500px;
                 left: 325px;
             }
+            .box{
+                height: auto;
+                width: 100%;
+            }
         </style>
     </head>
     <body> 
-
+        
+        <div class = "box">
         <a id = "ig" href = "https://www.instagram.com/marksoy.edits/"
             target = "_blank">
             <img src = "instagram.png" height = "225px">
@@ -383,6 +388,8 @@
         <video id= "vid44" src = "44.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
         <video id= "vid45" src = "45.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
         <video id= "vid46" src = "46.mp4" height = "450px" width = "210px" controls controlslist = "nodownload"  loop> </video>
+
+        </div>
         
     </body>
 </html>

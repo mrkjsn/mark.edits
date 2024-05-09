@@ -40,228 +40,228 @@
             }
             #vid2{
                 position: absolute;
-                top:550%;
-                left: 370%;
+                top:550px;
+                left: 370px;
             }
             #vid3{
                 position: absolute;
-                top:550%;
-                left: 700%;
+                top:550px;
+                left: 700px;
             }
             #vid4{
                 position: absolute;
-                top:550%;
-                left: 1000%;
+                top:550px;
+                left: 1000px;
             }
             #vid5{
                 position: absolute;
-                top:1000%;
-                left: 50%;
+                top:1000px;
+                left: 50px;
             }
             #vid6{
                 position: absolute;
-                top:1000%;
-                left: 370%;
+                top:1000px;
+                left: 370px;
             }
             #vid7{
                 position: absolute;
-                top:1000%;
-                left: 700%;
+                top:1000px;
+                left: 700px;
             }
             #vid8{
                 position: absolute;
-                top:1000%;
-                left: 1000%;
+                top:1000px;
+                left: 1000px;
             }
             #vid9{
                 position: absolute;
-                top:1450%;
-                left: 50%;
+                top:1450px;
+                left: 50px;
             }
             #vid10{
                 position: absolute;
-                top:1450%;
-                left: 370%;
+                top:1450px;
+                left: 370px;
             }
             #vid11{
                 position: absolute;
-                top:1450%;
-                left: 700%;
+                top:1450px;
+                left: 700px;
             }
             #vid12{
                 position: absolute;
-                top:1450%;
-                left: 1000%;
+                top:1450px;
+                left: 1000px;
             }
             #vid13{
                 position: absolute;
-                top:1900%;
-                left: 50%;
+                top:1900px;
+                left: 50px;
             }
             #vid14{
                 position: absolute;
-                top:1900%;
-                left: 370%;
+                top:1900px;
+                left: 370px;
             }
             #vid15{
                 position: absolute;
-                top:1900%;
-                left: 700%;
+                top:1900px;
+                left: 700px;
             }
             #vid16{
                 position: absolute;
-                top:1900%;
-                left: 1000%;
+                top:1900px;
+                left: 1000px;
             }
             #vid17{
                 position: absolute;
-                top:2350%;
-                left: 50%;
+                top:2350px;
+                left: 50px;
             }
             #vid18{
                 position: absolute;
-                top:2350%;
-                left: 370%;
+                top:2350px;
+                left: 370px;
             }
             #vid19{
                 position: absolute;
-                top:2350%;
-                left: 700%;
+                top:2350px;
+                left: 700px;
             }
             #vid20{
                 position: absolute;
-                top:2350%;
-                left: 1000%;
+                top:2350px;
+                left: 1000px;
             }
             #vid21{
                 position: absolute;
-                top:2800%;
-                left: 50%;
+                top:2800px;
+                left: 50px;
             }
             #vid22{
                 position: absolute;
-                top:2800%;
-                left: 370%;
+                top:2800px;
+                left: 370px;
             }
             #vid23{
                 position: absolute;
-                top:2800%;
-                left: 700%;
+                top:2800px;
+                left: 700px;
             }
             #vid24{
                 position: absolute;
-                top:2800%;
-                left: 1000%;
+                top:2800px;
+                left: 1000px;
             }
             #vid25{
                 position: absolute;
-                top:3250%;
-                left: 50%;
+                top:3250px;
+                left: 50px;
             }
             #vid26{
                 position: absolute;
-                top:3250%;
-                left: 370%;
+                top:3250px;
+                left: 370px;
             }
             #vid27{
                 position: absolute;
-                top:3250%;
-                left: 700%;
+                top:3250px;
+                left: 700px;
             }
             #vid28{
                 position: absolute;
-                top:3250%;
-                left: 1000%;
+                top:3250px;
+                left: 1000px;
             }
             #vid29{
                 position: absolute;
-                top:3700%;
-                left: 50%;
+                top:3700px;
+                left: 50px;
             }
             #vid30{
                 position: absolute;
-                top:3700%;
-                left: 370%;
+                top:3700px;
+                left: 370px;
             }
             #vid31{
                 position: absolute;
-                top:3700%;
-                left: 700%;
+                top:3700px;
+                left: 700px;
             }
             #vid32{
                 position: absolute;
-                top:3700%;
-                left: 1000%;
+                top:3700px;
+                left: 1000px;
             }
             #vid33{
                 position: absolute;
-                top:4150%;
-                left: 50%;
+                top:4150px;
+                left: 50px;
             }
             #vid34{
                 position: absolute;
-                top:4150%;
-                left: 370%;
+                top:4150px;
+                left: 370px;
             }
             #vid35{
                 position: absolute;
-                top:4150%;
-                left: 700%;
+                top:4150px;
+                left: 700px;
             }
             #vid36{
                 position: absolute;
-                top:4150%;
-                left: 1000%;
+                top:4150px;
+                left: 1000px;
             }
             #vid37{
                 position: absolute;
-                top:4600%;
-                left: 50%;
+                top:4600px;
+                left: 50px;
             }
             #vid38{
                 position: absolute;
-                top:4600%;
-                left: 370%;
+                top:4600px;
+                left: 370px;
             }
             #vid39{
                 position: absolute;
-                top:4600%;
-                left: 700%;
+                top:4600px;
+                left: 700px;
             }
             #vid40{
                 position: absolute;
-                top:4600%;
-                left: 1000%;
+                top:4600px;
+                left: 1000px;
             }
             #vid41{
                 position: absolute;
-                top: 5050%;
-                left: 50%;
+                top: 5050px;
+                left: 50px;
             }
             #vid42{
                 position: absolute;
-                top:5050%;
-                left: 370%;
+                top:5050px;
+                left: 370px;
             }
             #vid43{
                 position: absolute;
-                top:5050%;
-                left: 700%;
+                top:5050px;
+                left: 700px;
             }
             #vid44{
                 position: absolute;
-                top:5050%;
-                left: 1000%;
+                top:5050px;
+                left: 1000px;
             }
             #vid45{
                 position: absolute;
-                top:5500%;
-                left: 50%;
+                top:5500px;
+                left: 50px;
             }
             #vid46{
                 position: absolute;
-                top:5500%;
-                left: 370%;
+                top:5500px;
+                left: 370px;
             }
             body{
                 margin: 0;
@@ -270,29 +270,29 @@
             }       
             #ig{
                 position: absolute;
-                top: 360%;
-                left: 600%;
+                top: 360px;
+                left: 600px;
                 cursor: pointer;
             }
             #tiktok{
                 position: absolute;
-                top: 335%;
-                left: 785%;
+                top: 335px;
+                left: 785px;
             }
             #tofb{
                 position: absolute;
-                top: 270%;
-                left: 350%;
+                top: 270px;
+                left: 350px;
             }
             #email{
                 position: absolute;
-                top: 270%;
-                left: 950%;
+                top: 270px;
+                left: 950px;
             }
             #contact{
                 position: absolute;
-                top: 500%;
-                left: 325%;
+                top: 500px;
+                left: 325px;
             }
         </style>
     </head>

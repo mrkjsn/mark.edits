@@ -9,7 +9,7 @@
                 position: absolute;
                 top: 10px;
                 left: 50px;
-                border-radius: 50px;
+                border-radius: 50%;
                 box-shadow: 7px 10px 15px gray;
             }
             #hi{
@@ -21,7 +21,6 @@
             #intro{
                 position: absolute;
                 top:120px;
-                right: 50px;
                 left: 395px;
                 font-size: 27px;
                 text-align: justify;
@@ -328,17 +327,18 @@
 
         <h1 id = "hi">Hello! I'm Mark Jason</h1>
 
-        <p id = "intro">
-            I'm a video editor based in the Philippines, dedicated to transforming raw footage 
-            into captivating visual experiences. I'm committed to turning your vision into reality, 
-            so whether you're a filmmaker, content creator, or business owner seeking professional video
-             editing, I'm here to collaborate and bring your ideas to life.
+        <pre id = "intro">
+            I'm a video editor based in the Philippines, dedicated to
+            transforming raw footage into captivating visual experiences. I'm
+            committed to turning your vision into reality, so whether you're a 
+            filmmaker, content creator, or business owner seeking professional 
+            video editing, I'm here to collaborate and bring your ideas to life.
              <b><i>
-                Feel free to reach out to me by clicking on the
-             image corresponding to the platform you prefer. I'll be glad to connect with you there!
+            Feel free to reach out to me by clicking on the image corresponding
+            to the platform you prefer. I'll be glad to connect with you there!
              </i>
             </b>
-        </p>
+        </pre>
 
         <p id="sample">WORK SAMPLES:</p>
 

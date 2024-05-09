@@ -332,10 +332,7 @@ committed to turning your vision into reality, so whether you're a
 filmmaker, content creator, or business owner seeking professional 
 video editing, I'm here to collaborate and bring your ideas to life.
 <b><i>Feel free to reach out to me by clicking on the image corresponding
-to the platform you prefer. I'll be glad to connect with you there!
-             </i>
-            </b>
-        </pre>
+to the platform you prefer. I'll be glad to connect with you there!</i> </b></pre>
 
         <p id="sample">WORK SAMPLES:</p>
 
